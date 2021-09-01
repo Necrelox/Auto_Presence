@@ -15,6 +15,6 @@ Il doit prendre en argument :
 <img src="presence.gif" data-align="center" width="770">
 
 # Todo :
- - [] compatible avec d'autre mail (@gmail.com ..) pour le moment suelement @epitech.eu
+ - [] compatible avec d'autre mail (@gmail.com ..) pour le moment seulement @epitech.eu
  - [] UI
  
